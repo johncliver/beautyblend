@@ -4,7 +4,15 @@
             "img":"https://m.media-amazon.com/images/I/71wRbxteEqL._AC_UF350,350_QL80_.jpg",
             "title":"Eternity Perfume 💜 Eau De Parfum Spray 3.4 oz",
             "price": 65.99,
-            "information": "Design House: Calvin Klein Fragrance Notes: Sage, Freesia, Mandarin Orange, Green Notes, Citruses, Marigold, Jasmine, Narcissus, Violet, Rose, Lily of the Valley, Carnation, Lily, Heliotrope, Musk, Patchouli, Amber, Sandalwood Year Introduced: 1988 Recommended Use: daytime",
+            "info": "Design House: Calvin Klein Fragrance Notes: Sage, Freesia, Mandarin Orange, Green Notes, Citruses, Marigold, Jasmine, Narcissus, Violet, Rose, Lily of the Valley, Carnation, Lily, Heliotrope, Musk, Patchouli, Amber, Sandalwood Year Introduced: 1988 Recommended Use: daytime",
+            "description":"Engulf yourself in the timelessly sweet and refreshing scent of this Eternity eau de parfum spray for women. Launched in 1988 by Calvin Klein, this light and airy everyday scent opens with energizing hints of mandarin and freesia to invigorate your senses and leave you ready for anything that lies ahead. The scent cascades into a floral heart of rose and narcissus before descending to an earthy base of sandalwood on the dry down for a captivating finish."
+            ,"type":"perfume"
+        },
+        {
+            "img":"https://m.media-amazon.com/images/I/71wRbxteEqL._AC_UF350,350_QL80_.jpg",
+            "title":"Eternity Perfume 💜 Eau De Parfum Spray 3.4 oz",
+            "price": 65.99,
+            "info": "Design House: Calvin Klein Fragrance Notes: Sage, Freesia, Mandarin Orange, Green Notes, Citruses, Marigold, Jasmine, Narcissus, Violet, Rose, Lily of the Valley, Carnation, Lily, Heliotrope, Musk, Patchouli, Amber, Sandalwood Year Introduced: 1988 Recommended Use: daytime",
             "description":"Engulf yourself in the timelessly sweet and refreshing scent of this Eternity eau de parfum spray for women. Launched in 1988 by Calvin Klein, this light and airy everyday scent opens with energizing hints of mandarin and freesia to invigorate your senses and leave you ready for anything that lies ahead. The scent cascades into a floral heart of rose and narcissus before descending to an earthy base of sandalwood on the dry down for a captivating finish."
             ,"type":"perfume"
         }
