@@ -1,0 +1,32 @@
+{
+    "profile": [
+        {
+            "img": "",
+            "country": "",
+            "name": "",
+            "lasN": "",
+            "addressL1": "",
+            "addressL2": "",
+            "zip": "",
+            "city": "",
+            "stat": "",
+            "mobile": "",
+            "bag": [
+                {
+                    "nameP": "",
+                    "price": "",
+                    "eau": "",
+                    "sex": ""
+                }
+            ],
+            "like": [
+                {
+                    "nameP": "",
+                    "price": "",
+                    "eau": "",
+                    "sex": ""
+                }
+            ]
+        }
+    ]
+}
