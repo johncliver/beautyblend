@@ -1,36 +1,34 @@
 {
     "main": [
         {
-            "img": "https://m.media-amazon.com/images/I/71wRbxteEqL._AC_UF350,350_QL80_.jpg",
-            "title": "Eternity Perfume",
-            "eau": "Eau De Parfum Spray 3.4 oz",
-            "price": 65.99,
+            "img": "https://cdn.fragrancenet.com/images/photos/900x900/303895.jpg",
+            "title": "Armaf Club De Nuit Intense",
+            "eau": "Eau De Toilette Spray 3.6 oz",
+            "price": 40.99,
             "info": {
-                "DesignHouse": "Calvin Klein",
-                "FragranceNotes": "Sage, Freesia, Mandarin Orange, Green Notes, Citruses, Marigold, Jasmine, Narcissus, Violet, Rose, Lily of the Valley, Carnation, Lily, Heliotrope, Musk, Patchouli, Amber, Sandalwood",
-                "YearIntroduced": "1988",
-                "RecommendedUse": "daytime"
+                "DesignHouse": "Armaf",
+                "FragranceNotes": "Bergamot, Apple, Pineapple, Lemon, Rose",
+                "YearIntroduced": 2015,
+                "RecommendedUse": ""
             },
-            "description": "Engulf yourself in the timelessly sweet and refreshing scent of this Eternity eau de parfum spray for women. Launched in 1988 by Calvin Klein, this light and airy everyday scent opens with energizing hints of mandarin and freesia to invigorate your senses and leave you ready for anything that lies ahead. The scent cascades into a floral heart of rose and narcissus before descending to an earthy base of sandalwood on the dry down for a captivating finish.",
+            "description": "The woody spicy fragrance of Club de Nuit Intense is a powerful scent for men. Launched by the design house of Armaf, this 2015 scent features notes from Pineapple, Bergamot, Lemon, Apple and Black Currant. The heart is uplifting with hints from Jasmine, Rose and Birch. The base is intense with powerful notes of Vanilla, Patchouli, Ambergris and Musk.",
             "type": "fragance",
-            "sexo": "f",
-            "//": "F=Femenina M=Masculino"
+            "sexo": "m"
         },
         {
-            "img": "https://m.media-amazon.com/images/I/71wRbxteEqL._AC_UF350,350_QL80_.jpg",
-            "title": "Eternity Perfume",
-            "eau": "Eau De Parfum Spray 3.4 oz",
-            "price": 65.99,
+            "img": "https://cdn.fragrancenet.com/images/photos/900x900/120682.jpg",
+            "title": "D & G Light Blue",
+            "eau": "Eau De Toilette Spray 3.3 oz",
+            "price": 80.99,
             "info": {
-                "DesignHouse": "Calvin Klein",
-                "FragranceNotes": "Sage, Freesia, Mandarin Orange, Green Notes, Citruses, Marigold, Jasmine, Narcissus, Violet, Rose, Lily of the Valley, Carnation, Lily, Heliotrope, Musk, Patchouli, Amber, Sandalwood",
-                "YearIntroduced": "1988",
-                "RecommendedUse": "daytime"
+                "DesignHouse": "Dolce & Gabbana",
+                "FragranceNotes": "Sicilian Lemon, Bellflower, Cedar, Apple, Jasmine, Bamboo, White Rose, Cedar, Amber, Musk",
+                "YearIntroduced": 2001,
+                "RecommendedUse": "casual"
             },
-            "description": "Engulf yourself in the timelessly sweet and refreshing scent of this Eternity eau de parfum spray for women. Launched in 1988 by Calvin Klein, this light and airy everyday scent opens with energizing hints of mandarin and freesia to invigorate your senses and leave you ready for anything that lies ahead. The scent cascades into a floral heart of rose and narcissus before descending to an earthy base of sandalwood on the dry down for a captivating finish.",
+            "description": "Frolic in the essence of springtime when you wear this Light Blue eau de toilette spray for women. Released in 2001 by Dolce & Gabbana, this scintillating scent takes you on an olfactory sojourn with fruity hints of apple and Sicilian lemon that collide with fragrant cedar and romantic white rose and bellflower to leave you feeling beautiful and feminine. This scent is light enough for everyday wear yet memorable enough to save for date night and other special occasions.",
             "type": "fragance",
-            "sexo": "f",
-            "//": "F=Femenina M=Masculino"
+            "sexo": "f"
         }
     ]
 }
