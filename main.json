@@ -1,4 +1,21 @@
-{
+{ 
+    "//":[
+        {
+            "img": "",
+            "title": "",
+            "eau": "",
+            "price": 0.0,
+            "info": {
+              "DesignHouse": "",
+              "FragranceNotes": "",
+              "YearIntroduced": "",
+              "RecommendedUse": ""
+            },
+            "description": "",
+            "type": "",
+            "sexo": ""
+          }
+    ],   
     "main": [
         {
             "img": "https://cdn.fragrancenet.com/images/photos/900x900/303895.jpg",
@@ -8,7 +25,7 @@
             "info": {
                 "DesignHouse": "Armaf",
                 "FragranceNotes": "Bergamot, Apple, Pineapple, Lemon, Rose",
-                "YearIntroduced": 2015,
+                "YearIntroduced": "2015",
                 "RecommendedUse": ""
             },
             "description": "The woody spicy fragrance of Club de Nuit Intense is a powerful scent for men. Launched by the design house of Armaf, this 2015 scent features notes from Pineapple, Bergamot, Lemon, Apple and Black Currant. The heart is uplifting with hints from Jasmine, Rose and Birch. The base is intense with powerful notes of Vanilla, Patchouli, Ambergris and Musk.",
@@ -23,7 +40,7 @@
             "info": {
                 "DesignHouse": "Dolce & Gabbana",
                 "FragranceNotes": "Sicilian Lemon, Bellflower, Cedar, Apple, Jasmine, Bamboo, White Rose, Cedar, Amber, Musk",
-                "YearIntroduced": 2001,
+                "YearIntroduced": "2001",
                 "RecommendedUse": "casual"
             },
             "description": "Frolic in the essence of springtime when you wear this Light Blue eau de toilette spray for women. Released in 2001 by Dolce & Gabbana, this scintillating scent takes you on an olfactory sojourn with fruity hints of apple and Sicilian lemon that collide with fragrant cedar and romantic white rose and bellflower to leave you feeling beautiful and feminine. This scent is light enough for everyday wear yet memorable enough to save for date night and other special occasions.",
@@ -34,7 +51,7 @@
             "img": "https://cdn.fragrancenet.com/images/photos/900x900/115760.jpg",
             "title": "CK One Cologne",
             "eau": "Eau De Toilette Spray 6.7 oz",
-            "price": "55.99",
+            "price": 55.99,
             "info": {
                 "DesignHouse": "Calvin Klein",
                 "FragranceNotes": "Bergamot, Papaya, Lemon, Mandarin Orange, Cardamom, Green Notes, Pineapple, Lily of the Valley, Jasmine, Orris Root, Rose, Violet, Nutmeg, Oakmoss, Cedar, Musk, Amber, Sandalwood",
